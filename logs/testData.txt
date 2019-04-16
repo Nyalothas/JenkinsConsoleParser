@@ -1,0 +1,5 @@
+ERROR: 'ERROR', TypeError: Cannot read property 'pipe' of undefined
+ERROR: 'ERROR', TypeError: Cannot read property 'pipe' of undefined
+ERROR: 'ERROR', TypeError: Cannot read property 'pipe' of undefined
+ERROR: 'ERROR', TypeError: Cannot read property 'pipe' of undefined
+ERROR: 'ERROR', TypeError: Cannot read property 'pipe' of undefined

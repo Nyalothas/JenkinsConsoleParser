@@ -1,0 +1,7 @@
+ - split modules
+ - add tags
+ - add ability to sort by tag
+ - create custom tag
+ - styling
+ - detect if we are running on console or a browser is available
+ - install cheerio and modify index html
