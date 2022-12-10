@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Nyalothas/JenkinsConsoleParser#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jenkins": "^0.27.0",
     "open": "^7.0.0"
   }
